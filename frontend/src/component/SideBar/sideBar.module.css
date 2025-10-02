@@ -1,0 +1,66 @@
+.sideBar{
+    flex:0.2;
+    background-color: #0b0b5a;
+    color:white;
+    height:100vh;
+    flex-shrink:0;
+}
+
+.sideBarIcon{
+    padding:20px 30px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+.sideBarTopContent{
+   font-size:26px;
+}
+
+.sideBarOption{
+    padding:20px;
+    display:flex;
+    gap:10px;
+    align-items:center;
+    font-size:22px;
+    cursor:pointer;
+    color:white;
+    text-decoration: none;
+}
+
+.selectedOption{
+    background-color: rgb(72,72,222);
+
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0b0b5a; /* matching your sidebar color */
+  padding: 20px 0;
+  gap: 50px;
+  color: white;
+  font-size: 30px;
+}
+
+.socialmedialinks {
+  display: flex;
+  justify-content: center; 
+  gap: 100px; 
+  margin-top: 240px; /* reduce margin for better alignment */
+  
+}
+
+/* Style individual links/icons */
+.socialmedialinks a {
+  color: white;
+  font-size: 24px; /* size for social icons */
+  transition: color 0.3s ease;
+}
+
+.socialmedialinks a:hover {
+  color: #4a90e2; /* hover color to highlight */
+  cursor: pointer;
+}
