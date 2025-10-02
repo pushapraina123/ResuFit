@@ -3,7 +3,7 @@
 [![Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/pushapraina123/Resume_Analyzer)
 
 ## Project Overview
-The AI-Powered Resume Analyzer is a full-stack web application that allows users to upload their resumes (PDFs) and receive **instant AI-based scoring and personalized feedback**. The system leverages **Cohere AI embeddings** to evaluate keyword relevance, semantic similarity, and overall alignment with a provided job description. 
+The AI-Powered Resume Analyzer is a full-stack web application that allows users to upload their resumes (PDFs) along with Job Description and receive **instant AI-based scoring and personalized feedback**. The system leverages **Cohere AI embeddings** to evaluate keyword relevance, semantic similarity, and overall alignment with a provided job description. 
 
 This tool helps job seekers understand how well their resumes match target roles and provides actionable insights to improve them.
 
