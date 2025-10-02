@@ -37,6 +37,17 @@ This tool helps job seekers understand how well their resumes match target roles
 
 ---
 
+
+---
+
+✅ Key points:
+- `.env` is used to securely store credentials.
+- Users can change `MONGO_URI` anytime to point to their own database.
+- Also get `COHERE_API_KEY` for Cohere AI access.
+
+---
+
+
 ## Installation
 ```bash
 # Clone the repository
